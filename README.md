@@ -1,4 +1,9 @@
+### 🌱 I’m currently learning ...
+- Spring boot Framework
+- Python Algorithms & Data Structure
 
+#### [😎 About Me](https://www.notion.so/cms02/60f4656ed5f24cdc9b3f9593f0e62f13c)
+#### 📧 Email : minoui1234@gmail.com
 <!--
 **cms02/cms02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
