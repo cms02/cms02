@@ -8,7 +8,7 @@
 - Linux
 - JPA
 
-#### [😎 About Me](https://www.notion.so/cms02/CHU-MIN-SEOK-c4b2d13156f34b21b5ac4ccb8cbf0077)
+<!-- #### [😎 About Me](https://www.notion.so/cms02/CHU-MIN-SEOK-c4b2d13156f34b21b5ac4ccb8cbf0077) -->
 #### [👍 Blog](https://velog.io/@cms02)
 <!--
 **cms02/cms02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
