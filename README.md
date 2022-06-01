@@ -6,7 +6,7 @@
 - React -->
 - Springboot <!-- Spring MVC-->
 - Linux
-- JPA
+- JPA & QueryDSL
 
 <!-- #### [😎 About Me](https://www.notion.so/cms02/CHU-MIN-SEOK-c4b2d13156f34b21b5ac4ccb8cbf0077) -->
 #### [👍 Blog](https://cms02.tistory.com/)
