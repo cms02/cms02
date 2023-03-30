@@ -1,15 +1,11 @@
 ### 🌱 I’m currently learning ...
 <!-- - Spring boot Framework
 - Python Algorithms & Data Structure
-- Spring Security 
-- JSP / SERVLET 
-- React -->
 - Springboot <!-- Spring MVC-->
 - Linux
 - JPA & QueryDSL
 - Clean Code
 - MSA
-- TDD
 
 <!-- #### [😎 About Me](https://www.notion.so/cms02/CHU-MIN-SEOK-c4b2d13156f34b21b5ac4ccb8cbf0077) -->
 #### [👍 Blog](https://cms02.tistory.com/)
